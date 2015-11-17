@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VS-EvidenciaADA04", "VS-EvidenciaADA04\VS-EvidenciaADA04.vcxproj", "{E0D624F2-538E-4775-BB54-5042448161EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DDE537B-DCB6-4D9E-AB82-63E375D598E4}"
+	ProjectSection(SolutionItems) = preProject
+		VS-EvidenciaADA04\bheap.h = VS-EvidenciaADA04\bheap.h
+		VS-EvidenciaADA04\binoHeap.h = VS-EvidenciaADA04\binoHeap.h
+		VS-EvidenciaADA04\fiboHeap.h = VS-EvidenciaADA04\fiboHeap.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D624F2-538E-4775-BB54-5042448161EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0D624F2-538E-4775-BB54-5042448161EF}.Debug|Win32.Build.0 = Debug|Win32
+		{E0D624F2-538E-4775-BB54-5042448161EF}.Release|Win32.ActiveCfg = Release|Win32
+		{E0D624F2-538E-4775-BB54-5042448161EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
